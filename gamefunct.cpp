@@ -1,3 +1,7 @@
+//Additional work for EA certification. Created a header file for a potential implementation in EA Sports.
+//Expanded on the prompt and coded a draft of the implementation in basic C++ code.
+//Based on expanding the feature "Wear and Tear" by adding "emotional impact" to the "physical impact" for player management.
+
 #include "gamefunct.h"
 #include <iostream>
 #include <cstdlib>
